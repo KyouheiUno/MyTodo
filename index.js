@@ -1,1 +1,1 @@
-console.log("Hello world");
+console.log("この表示が出ていれば読み込みできています。")
